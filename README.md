@@ -22,7 +22,7 @@
 <a href="https://twitter.com/adie_munawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adie_munawar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adi-munawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-munawar" height="30" width="40" /></a>
 <a href="https://instagram.com/adimunawarkamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adimunawarkamil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adi munawar kamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adi munawar kamil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCVbDUBzuWB7Q4CqlvI1xLiA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adi munawar kamil" height="30" width="40" /></a>
   
 </p>
 
